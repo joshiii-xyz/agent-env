@@ -3,16 +3,17 @@
 Agent-env exposes a read-only, machine-readable view of local executable,
 package, module, file, lockfile, and source-origin relationships.
 
-Status: Linux-first MVP in validation
+Status: published 0.1.0 MVP
 
 CI: https://github.com/joshiii-xyz/agent-env/actions/workflows/ci.yml
+Release: https://github.com/joshiii-xyz/agent-env/releases/tag/v0.1.0
 
 ## Install
 
-Install the local binary while the MVP is under validation:
+Install the published binary:
 
 ~~~bash
-cargo install --path .
+cargo install agent-env --version 0.1.0 --locked
 ~~~
 
 ## Quick start
@@ -95,8 +96,9 @@ docs/release.md for the change and release gates.
 
 ## Release and support status
 
-No public package or release has been published. The MVP is limited to
-evidence-backed local inspection and makes no production-readiness claim.
+Version 0.1.0 is published on crates.io and released on GitHub. It is a
+Linux-first MVP limited to evidence-backed local inspection and makes no
+production-readiness claim.
 
 ## Contributing
 

@@ -1,5 +1,9 @@
 # Release
 
+The 0.1.0 MVP was published to crates.io and released on GitHub on
+2026-09-03. The private release record is stored under
+qa/evidence/iteration-2026-09-03.md.
+
 ## Dry-run gate
 
 Run from a clean checkout:
