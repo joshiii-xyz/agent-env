@@ -5,8 +5,8 @@ package, module, file, lockfile, and source-origin relationships.
 
 Status: published 0.1.0 MVP
 
-CI: https://github.com/joshiii-xyz/agent-env/actions/workflows/ci.yml
-Release: https://github.com/joshiii-xyz/agent-env/releases/tag/v0.1.0
+CI: https://github.com/yoshiii-xyz/agent-env/actions/workflows/ci.yml
+Release: https://github.com/yoshiii-xyz/agent-env/releases/tag/v0.1.0
 
 ## Install
 

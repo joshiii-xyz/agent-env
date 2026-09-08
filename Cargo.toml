@@ -5,7 +5,7 @@ edition = "2021"
 rust-version = "1.85"
 description = "Read-only local package and environment inspector"
 license = "MIT"
-repository = "https://github.com/joshiii-xyz/agent-env"
+repository = "https://github.com/yoshiii-xyz/agent-env"
 keywords = ["cli", "diagnostics", "cargo", "provenance"]
 categories = ["command-line-utilities", "development-tools"]
 
